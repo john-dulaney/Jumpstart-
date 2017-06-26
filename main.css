@@ -1,0 +1,114 @@
+h1 {
+ font-family: 'Bungee Shade', cursive;
+ color: white;
+ font-weight: bold;
+ font-style: italic;
+ font-size: 50px;
+ text-align: center;
+ margin: 1px 1px 1px 220px;
+}
+
+body {
+ background: url(https://static.pexels.com/photos/14676/pexels-photo-14676.png)
+   repeat;
+ background-size: cover;
+}
+
+#aboutme {
+ background-color: #ccf2ff;
+ border-style: solid;
+ font-family: 'Gudea', cursive;
+ font-size: 16px;
+ border-radius: 0%;
+ border-style: inset;
+ font-variant: small-caps;
+ margin: 10px 10px 10px 230px;
+}
+
+#navmenu {
+ overflow: hidden;
+ position: fixed;
+ text-align: center;
+ background-color: #ccf2ff;
+ top: 0;
+ width: 220px;
+ border-style: inset;
+ font-family: 'Gudea', cursive;
+ z-index: 999;
+}
+
+#profilepic {
+ position: relative;
+ top: 150px;
+}
+
+#outsidepics {
+ position: relative;
+ margin: 10px 10px 10px 230px;
+}
+
+#insidepics {
+ position: relative;
+}
+
+#defaultbox {
+ background-color: #ff9966;
+ font-family: 'Gudea', cursive;
+ color: brown;
+ font-size: 16px;
+ border-radius: 0%;
+ border-style: inset;
+ font-variant: small-caps;
+ margin: 10px 10px 10px 230px;
+}
+
+#contactForm {
+ background-color: #ccf2ff;
+ font-family: 'Gudea', cursive;
+ display: inline-block;
+ text-align: center;
+ border-style: outset;
+ margin: 10px 10px 10px 230px;
+
+}
+
+#see-places {
+  padding:30px 30px 30px 30px;
+   background:grey;
+   border:0 none;
+   cursor:pointer;
+   -webkit-border-radius: 5px;
+   border-radius: 5px;
+   color:white;
+   font-family: 'Gudea', cursive;;
+}
+
+#output-movies {
+   font-family     : Arial;
+   text-align      : center;
+   width           : 100px;
+   height          : 15px;
+   background      : #ccc;
+   border          : 1px solid #000;
+   box-shadow      : 1px 1px 5px -1px #000;
+   padding         : 10px;
+   •margin-bottom   : 10px;
+   cursor          : pointer;
+}
+
+#output-places {
+   font-family     : Arial;
+   text-align      : center;
+   width           : 100px;
+   height          : 15px;
+   background      : #ccc;
+   border          : 1px solid #000;
+   box-shadow      : 1px 1px 5px -1px #000;
+   padding         : 10px;
+   margin-bottom   : 10px;
+   cursor          : pointer;
+}
+
+/*img {
+ width: 100px;
+}*/
